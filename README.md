@@ -1,4 +1,4 @@
-# Pizza-Store-sales-performance-analysis
+# Analysis Report
 
 This project focuses on performing advanced data analysis using pure SQL on the Pizza Store dataset.
 
