@@ -1,5 +1,3 @@
-# Analysis Report
-
 This project focuses on performing advanced data analysis using pure SQL on the Pizza Store dataset.
 
 The report aims to extract key business insights directly through SQL queries.
