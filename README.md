@@ -1,6 +1,9 @@
+________________________________________
 This project focuses on performing advanced data analysis using pure SQL on the Pizza Store dataset.
 
 The report aims to extract key business insights directly through SQL queries.
+
+________________________________________
 
 Main analyses include:
 
@@ -11,5 +14,7 @@ Main analyses include:
 🔹 Hourly Sales Distribution – Identifying peak order hours during the day.
 
 🔹 Performance by Size & Category – Comparing revenue and order shares by pizza size and type.
+
+________________________________________
 
 Result: A complete analytical SQL script that transforms raw sales data into actionable business insights — all within SQL.
